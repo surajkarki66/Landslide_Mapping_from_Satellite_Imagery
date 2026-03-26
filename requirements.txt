@@ -13,6 +13,6 @@ scikit-learn==1.7.1
 seaborn==0.13.2
 #git+https://github.com/qubvel/segmentation_models.pytorch
 segmentation-models-pytorch
-streamlit==1.46.1
+streamlit==1.54.0
 streamlit-option-menu==0.4.0
 typer==0.16.0
